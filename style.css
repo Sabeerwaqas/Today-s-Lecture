@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 
 
-
+/* 
 h1{
     background-color: #a52a2a;
     color: #ffffff;
@@ -27,4 +27,10 @@ i{
 
 p{
     color: blue;
+} */
+
+
+.container{
+    background: url(bk.jpeg) no-repeat fixed center;
+    
 }
